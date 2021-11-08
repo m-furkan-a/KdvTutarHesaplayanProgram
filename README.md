@@ -1,0 +1,2 @@
+# KdvTutarHesaplayanProgram
+PratikKdvHesaplama
